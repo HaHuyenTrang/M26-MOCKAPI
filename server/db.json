@@ -1,0 +1,59 @@
+{
+  "works": [
+    {
+      "id": 2,
+      "name": "nấu cơm",
+      "status": false
+    },
+    {
+      "id": 3,
+      "name": "rửa bát",
+      "status": false
+    },
+    {
+      "id": 4,
+      "name": "phơi đồ",
+      "status": true
+    },
+    {
+      "id": 5,
+      "name": "đi chợ",
+      "status": false
+    },
+    {
+      "id": 6,
+      "name": "dọn dẹp",
+      "status": false
+    },
+    {
+      "id": 7,
+      "name": "làm vườn",
+      "status": false
+    },
+    {
+      "id": 8,
+      "name": "giặt đồ",
+      "status": true
+    },
+    {
+      "id": 9,
+      "name": "nấu nước",
+      "status": false
+    },
+    {
+      "id": 10,
+      "name": "dọn bàn",
+      "status": false
+    },
+    {
+      "name": "lau nhà",
+      "status": false,
+      "id": 11
+    },
+    {
+      "name": "tưới cây",
+      "status": false,
+      "id": 12
+    }
+  ]
+}
